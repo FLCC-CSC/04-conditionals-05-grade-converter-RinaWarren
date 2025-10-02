@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Rina Warren
+# DATE: October 2, 2025
+# BRIEF DESCRIPTION:  Gives grade a-f
 
 
 
@@ -84,7 +84,8 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+??? the lab was done??? I guess probably the thing we're supposed to put here is how you order the grades because
+it doesnt work backwards but ?
 
 
 
